@@ -1,0 +1,33 @@
+{
+  "list": [
+    {
+      "senderName": "test chúc",
+      "content": "test chúc",
+      "userId": "anonymous",
+      "createdAt": "anonymous"
+    },
+    {
+      "senderName": "2354324",
+      "content": "34324",
+      "userId": "anonymous"
+    },
+    {
+      "senderName": "ewqewq",
+      "content": "ewqe",
+      "userId": "anonymous",
+      "createdAt": "2025-11-16T20:52:28.603Z"
+    },
+    {
+      "senderName": "21313",
+      "content": "12313",
+      "userId": "anonymous",
+      "createdAt": "2025-11-16T21:05:42.694Z"
+    },
+    {
+      "senderName": "tét",
+      "content": "ewqeq",
+      "userId": "anonymous",
+      "createdAt": "2025-11-16T21:18:46.788Z"
+    }
+  ]
+}
